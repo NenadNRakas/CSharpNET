@@ -228,8 +228,6 @@ namespace CSharpNET
             A = 5;
             B = 3;
             int pos = 0;
-            char a = 'a';
-            char b = 'b';
             string c = "c";//(a * A) + (b * B);
             char current = '\u0000';
             char[] letters = { 'a', 'b' };
